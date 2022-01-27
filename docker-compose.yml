@@ -8,8 +8,8 @@ services:
       - ./config.json:/ServerStatus/server/config.json 
       - ./json:/usr/share/nginx/html/json
     ports:
-      - 35601:35601
-      - 8081:80 
+      - 35608:35608
+      - 8088:80 
   bot:
     build:
       context: .
