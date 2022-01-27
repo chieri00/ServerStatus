@@ -14,10 +14,10 @@
 其中，Bot token可以通过@BotFather创建机器人获取， Chat id可以通过@getuserID获取。
 
 ```
-mkdir sss && cd sss && wget --no-check-certificate https://raw.githubusercontent.com/lidalao/ServerStatus/master/sss.sh && chmod +x ./sss.sh && sudo ./sss.sh YOUR_TG_CHAT_ID YOUR_TG_BOT_TOKEN
+mkdir sss && cd sss && wget --no-check-certificate https://raw.githubusercontent.com/lidalao/ServerStatus/master/sss.sh && chmod +x ./sss.sh && sudo ./sss.sh 2135168853 5084683997:AAG4OG2C6LwsHYa1A5Pwvk_wW62ZXaYGiFM
 
 ```
-安装成功后，web服务地址：http://ip:8081
+安装成功后，web服务地址：http://ip:8088
 
 更多信息请移步 https://lidalao.com/archives/87  +1ip
 
